@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'sinatra'
 gem 'sinatra-json'
 gem 'sinatra-activerecord'
+gem 'foreman'
 gem 'puma'
 gem 'rake'
 
